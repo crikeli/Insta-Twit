@@ -1,9 +1,9 @@
 //
 //  RWTweet.h
-//  TwitterInstant
+//  More RAC
 //
-//  Created by Colin Eberhardt on 05/01/2014.
-//  Copyright (c) 2014 Colin Eberhardt. All rights reserved.
+//  Created by Kelin Christi on 02/23/2016.
+//  Copyright (c) 2016 Kelz. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
